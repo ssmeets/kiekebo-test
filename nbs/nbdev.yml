@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "kiekebo-test"
+  site-url: "https://ssmeets.github.io/kiekebo-test"
+  description: "Test"
+  repo-branch: main
+  repo-url: "https://github.com/ssmeets/kiekebo-test"
